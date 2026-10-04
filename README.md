@@ -25,6 +25,8 @@ Analyzed 555,719 credit card transactions to identify patterns in fraudulent act
 - `fraud_dashboard.xlsx` — Excel dashboard
 - `fraud_dashboard.pbix` — Power BI dashboard
 
+  ## Note: The Power BI (.pbix) file is not included due to GitHub's file size limits. A screenshot of the dashboard (power_bi_dashboard.png) is included instead.
+
 ## Dataset Source
 [Kaggle: Credit Card Transactions Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
